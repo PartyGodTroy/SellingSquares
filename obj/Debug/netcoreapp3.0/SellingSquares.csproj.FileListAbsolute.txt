@@ -1,0 +1,11 @@
+/Users/troyrolle/Documents/Projects/SellingSquares/bin/Debug/netcoreapp3.0/SellingSquares
+/Users/troyrolle/Documents/Projects/SellingSquares/bin/Debug/netcoreapp3.0/SellingSquares.deps.json
+/Users/troyrolle/Documents/Projects/SellingSquares/bin/Debug/netcoreapp3.0/SellingSquares.runtimeconfig.json
+/Users/troyrolle/Documents/Projects/SellingSquares/bin/Debug/netcoreapp3.0/SellingSquares.runtimeconfig.dev.json
+/Users/troyrolle/Documents/Projects/SellingSquares/bin/Debug/netcoreapp3.0/SellingSquares.dll
+/Users/troyrolle/Documents/Projects/SellingSquares/bin/Debug/netcoreapp3.0/SellingSquares.pdb
+/Users/troyrolle/Documents/Projects/SellingSquares/obj/Debug/netcoreapp3.0/SellingSquares.csprojAssemblyReference.cache
+/Users/troyrolle/Documents/Projects/SellingSquares/obj/Debug/netcoreapp3.0/SellingSquares.AssemblyInfoInputs.cache
+/Users/troyrolle/Documents/Projects/SellingSquares/obj/Debug/netcoreapp3.0/SellingSquares.AssemblyInfo.cs
+/Users/troyrolle/Documents/Projects/SellingSquares/obj/Debug/netcoreapp3.0/SellingSquares.dll
+/Users/troyrolle/Documents/Projects/SellingSquares/obj/Debug/netcoreapp3.0/SellingSquares.pdb
